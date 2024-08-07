@@ -1,1 +1,1 @@
-console.log("Toca no Calleri que é GOL")
+console.log("teste")
